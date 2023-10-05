@@ -2,6 +2,7 @@
   "name": "prettierrc-extractor",
   "displayName": "Prettierrc Extractor",
   "description": "Extract prettierrc from workspace",
+  "publisher": "SawanAshok",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
